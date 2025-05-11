@@ -1,5 +1,5 @@
 # ZendeskMockTicket
-Zendesk_Mock_Ticket_Workday Worked on additional sample tickets
+Zendesk_Mock_Ticket_Workday
 🚀 Worked on additional sample tickets in Zendesk CRM for Roco Private Limited (a company website I built). Handled various scenarios like:
 
 🔑 Password resets
