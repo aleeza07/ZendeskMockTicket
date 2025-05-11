@@ -10,3 +10,5 @@ Zendesk_Mock_Ticket_Workday
 Updated all records in my Excel tracker to log my progress—helping me stay organized while boosting my confidence with Zendesk CRM.
 
 ✅ Overall, a productive day! Excited to keep improving. 💪
+<br>
+Author: Aleeza Tabassum
